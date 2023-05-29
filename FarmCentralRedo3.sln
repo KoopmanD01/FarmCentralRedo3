@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmCentralRedo3", "FarmCentralRedo3\FarmCentralRedo3.csproj", "{0C4F4508-1617-4D18-B42B-47AE780BB81A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C4F4508-1617-4D18-B42B-47AE780BB81A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C4F4508-1617-4D18-B42B-47AE780BB81A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C4F4508-1617-4D18-B42B-47AE780BB81A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C4F4508-1617-4D18-B42B-47AE780BB81A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3468DBC-EBD4-4A9B-805C-770A902D53B2}
+	EndGlobalSection
+EndGlobal
